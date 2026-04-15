@@ -1,6 +1,11 @@
 import java.util.Stack;
 
 /**
+* * ----------STUDENT DETAILS ------------ 
+* NAME:KANGWA KAPENDA
+* SIN: 202410254
+* PROGRAM: COMPUTER SCIENCE
+/**
  * Infix,prefix,postfix expr: A robust utility for notation conversion.
  * * --- ALGORITHM PSEUDO-CODE ---
  * 1. Initialize an empty Stack for operators and a StringBuilder for the output.
